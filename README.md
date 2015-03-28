@@ -1,2 +1,3 @@
-# spotlib
-Base library
+# Spotlib
+
+Base library for Spotweb
